@@ -16,8 +16,8 @@ swagger(express()).configure({
         '/docs/apis/**/*.js'
     ],
     swagger: {
-        title: "Mock Swagger Node",
-        description: "Mock Swagger Node",
+        title: "Mock Swagger FrontEnd Atlas",
+        description: "Mock Swagger FrontEnd Atlas",
         termsOfServiceUrl: "",
         contact: "",
         swaggerDoc: "api-docs",

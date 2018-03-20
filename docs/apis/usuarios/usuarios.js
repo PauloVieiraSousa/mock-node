@@ -3,7 +3,7 @@ var paramTypes = require("swagger-node-express").paramTypes;
 module.exports = {
     spec: {
         description: "Usuários",
-        path: "/swagger-mock/usuarios",
+        path: "/mock-swagger-frontend/usuarios",
         method: "GET",
         summary: "",
         notes: "",

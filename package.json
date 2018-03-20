@@ -1,5 +1,5 @@
 {
-    "name": "mock swagger node",
+    "name": "mock-swagger-atlas",
     "version": "1.0.0",
     "description": "Mock",
     "main": "index.js",
@@ -16,7 +16,8 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.13.4",
+        "express": "^4.16.3",
+        "gulp-cli": "^2.0.1",
         "lodash": "^4.11.0",
         "moment": "^2.13.0",
         "node-swagger-ui": "1.0.4",
